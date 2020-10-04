@@ -1,0 +1,2 @@
+# falconstar
+technical analysis experiment
